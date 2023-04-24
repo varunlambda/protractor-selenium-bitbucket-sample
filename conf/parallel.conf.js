@@ -9,7 +9,7 @@ exports.config = {
   'commonCapabilities': {
     'build': 'protractor-selenium-sample',
     'name': 'parallel-test',
-    'tunnel': true
+    'tunnel': false
   },
 
   'multiCapabilities': [{
